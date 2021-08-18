@@ -1,0 +1,86 @@
+{
+	"game": {
+		"home": "team1",
+		"away": "team2",
+		"game_id": "1258202",
+		"game_info_link": "http://zq.win007.com/analysis/1258202.htm",
+		"game_handicap_link": "http://vip.win007.com/changeDetail/handicap.aspx?id=1258202&companyID=3",
+		"game_overunder_link": "http://vip.win007.com/changeDetail/overunder.aspx?id=1258202&companyid=3",
+		"game_info_detail_js": "http://data.nowgoal.com/1x2data/1511765.js"
+	},
+	"company": {
+		"company_info": "http://op1.win007.com/companies.js",
+		"company_selected": {
+			"1": "澳彩",
+			"3": "SB",
+			"8": "Bet365"
+		}
+	},
+	"odd_type": {
+		"handicap": "handicap",
+		"overunder": "overunder",
+		"handicaphalf": "handicaphalf",
+		"overunderhalf": "overunderhalf",
+		"odd_info": "http://bf.win007.com/scoreOdds.js",
+		"game_info_detail_js":"http://data.nowgoal.com/3in1odds/3_1669459.html"
+
+	},
+	"league_info": {
+		"league_info": [{
+				"league_id": "8",
+				"league_link": "http://zq.win007.com/cn/League/8.html",
+				"league_name": "bundesliga_de"
+			}, {
+				"league_id": "36",
+				"league_link": "http://zq.win007.com/cn/League/36.html",
+				"league_name": "premier_eng"
+			}, {
+				"league_id": "34",
+				"league_link": "http://zq.win007.com/cn/League/34.html",
+				"league_name": "Italian_A"
+			}, {
+				"league_id": "31",
+				"league_link": "http://zq.win007.com/cn/League/31.html",
+				"league_name": "Spain_A"
+			}, {
+				"league_id": "11",
+				"league_link": "http://zq.win007.com/cn/League/11.html",
+				"league_name": "French_A"
+			}, {
+				"league_id": "4",
+				"league_link": "http://zq.win007.com/jsData/matchResult/2015/s4.js",
+				"league_name": "Brazil_A"
+			}
+
+
+		],
+		"js_file": "http://zq.win007.com/jsData/matchResult/2016-2017/s8.js",
+		"js_function": "http://zq.win007.com/Script/cn/league.js"
+	},
+	"season_info": {
+		"js_file": "http://zq.win007.com/jsData/LeagueSeason/sea8.js",
+		"available_season": ["2007-2008",
+			"2008-2009",
+			"2009-2010",
+			"2010-2011",
+			"2011-2012",
+			"2012-2013", {
+				"2013-2014": "live_bid"
+			}, {
+				"2014-2015": "live_bid"
+			}, {
+				"2015-2016": "live_bid"
+			}, {
+				"2016-2017": "live_bid"
+			}
+		]
+	},
+	"team_info": {
+		"js_file": "http://zq.win007.com/jsData/teamInfo/team8.js",
+		"js_team_detail": "http://zq.win007.com/jsData/teamInfo/teamDetail/tdl88.js",
+		"team_detail_nowgoal": "http://info.nowgoal.com/en/team/Summary/423.html",
+		"team_detail_nowgoal_js": "http://info.nowgoal.com/jsData/teamInfo/teamDetail/tdl423_en.js",
+		"team_detail_goaloo1_js": "https://football.goaloo1.com/jsdata/teamInfo/teamdetail/tdl721_en.js"
+
+	}
+}
