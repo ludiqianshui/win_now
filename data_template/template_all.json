@@ -6,7 +6,8 @@
 		"game_info_link": "http://zq.win007.com/analysis/1258202.htm",
 		"game_handicap_link": "http://vip.win007.com/changeDetail/handicap.aspx?id=1258202&companyID=3",
 		"game_overunder_link": "http://vip.win007.com/changeDetail/overunder.aspx?id=1258202&companyid=3",
-		"game_info_detail_js": "http://data.nowgoal.com/1x2data/1511765.js"
+		"game_info_detail_js": "http://data.nowgoal.com/1x2data/1511765.js",
+		"game_odds": "http://data.nowgoal3.com/3in1odds/31_2002052.html"
 	},
 	"company": {
 		"company_info": "http://op1.win007.com/companies.js",
